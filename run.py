@@ -1,7 +1,7 @@
 from flask import Flask, session
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'ppop'
+app.config['SECRET_KEY'] = '1231231sfafq2131sfw44556df'
 
 from views import *
 
